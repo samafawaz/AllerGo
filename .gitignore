@@ -1,0 +1,133 @@
+# Java
+*.class
+*.log
+*.war
+*.ear
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+.target/
+*.jar
+*.war
+*.ear
+*.nar
+*.lastUpdated
+*.lastUpdated.lock
+*.markers
+*.markers.lock
+*.timestamp
+*.timestamp.lock
+*.pom.lastUpdated
+*.pom.lastUpdated.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+target/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+# IDE - Eclipse
+.settings/
+.classpath
+.project
+
+# IDE - NetBeans
+nbproject/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - Eclipse
+.settings/
+.classpath
+.project
+
+# IDE - NetBeans
+nbproject/
+
+# IDE - Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+# IDE - Eclipse
+.settings/
+.classpath
+.project
+
+# IDE - NetBeans
+nbproject/
+
+# IDE - Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+# IDE - Eclipse
+.settings/
+.classpath
+.project
+
+# IDE - NetBeans
+nbproject/
+
+# IDE - Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+# IDE - Eclipse
+.settings/
+.classpath
+.project
+
+# IDE - NetBeans
+nbproject/
+
+# IDE - Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
