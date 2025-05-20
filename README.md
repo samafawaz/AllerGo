@@ -5,7 +5,7 @@
 ## Slogan: Eat Smart. Stay Safe.
 
 ## Overview
-AllerGo is a mobile application designed to help individuals with food allergies dine out safely. The app combines traditional features with AI-powered functionality to provide a comprehensive solution for managing food allergies.
+AllerGo is an application designed to help individuals with food allergies dine out safely. The app combines traditional features with AI-powered functionality to provide a comprehensive solution for managing food allergies.
 
 ## Core Features
 
